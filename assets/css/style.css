@@ -104,3 +104,16 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+/* Classes */
+.cardText{
+  color: #333333; 
+}
+
+.cardTitle{
+  color: #333333;
+}
+
+.cardFooter{
+  color: #333333;
+}
